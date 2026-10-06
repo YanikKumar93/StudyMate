@@ -18,7 +18,7 @@ from tools.rag import (
 )
 
 st.set_page_config(
-    page_title="NOVA",
+    page_title="StudyMate",
     layout="wide",
     initial_sidebar_state="expanded",
 )
